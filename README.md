@@ -1,6 +1,6 @@
 # Biomarker-discovery-project
 Biomarker discovery in RIF - Recurrent Implantation failure 
-# 🧬 Identification of X-Chromosomal and XCI Escape Biomarkers in Recurrent Implantation Failure (RIF) Using Consensus Machine Learning
+# 🧬 Identification of X-Chromosomal and autosomal Biomarkers in Recurrent Implantation Failure (RIF) Using Consensus Machine Learning
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)
 ![Bioconductor](https://img.shields.io/badge/Bioconductor-DESeq2-green.svg)
